@@ -7,7 +7,7 @@ Currently focusing on IAM systems, cloud infrastructure, and penetration testing
 - 🌱 I'm currently learning more about **Keycloak/SSO, HashiCorp Vault, Kubernetes, and cloud security architecture, Penetration Testing**
 - 👯 I'm looking to collaborate on **cybersecurity, cloud infrastructure, and secure coding projects**
 - 💬 Ask me about **penetration testing, IAM, embedded systems security, and swimming**
-- 📫 How to reach me: [linkedin.com/in/luis-deoliveira-b31380305](https://www.linkedin.com/in/luis-deoliveira-b31380305/)
+- 📫 How to reach me: [www.linkedin.com/in/luis-de-oliveira](https://www.linkedin.com/in/luis-de-oliveira/)
 - ⚡ Fun fact: NCAA Student-Athlete | UIW SAAC Member | Trilingual (Portuguese, English, Spanish)
 
 ---

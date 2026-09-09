@@ -1,9 +1,10 @@
 # I'm Luis De Oliveira 👋
 
-I'm a student passionate about cybersecurity, cloud security, and secure software development.
+I'm a student passionate about cybersecurity, cloud security,AI Engineering and Software Engineering.
 Currently focusing on IAM systems, cloud infrastructure, and penetration testing.
 
 - 🔭 I'm currently working on **UIW CloudGate** — a production-style cloud security platform (CIS 4355)
+- 🔭 I'm currently working on **UIWCyberCampus** — Smart campus security testbed that models and demonstrates how cyber-physical systems (CPS) can monitor, secure, and improve resilience in a campus environment.
 - 🌱 I'm currently learning more about **Keycloak/SSO, HashiCorp Vault, Kubernetes, and cloud security architecture, Penetration Testing**
 - 👯 I'm looking to collaborate on **cybersecurity, cloud infrastructure, and secure coding projects**
 - 💬 Ask me about **penetration testing, IAM, embedded systems security, and swimming**
@@ -37,12 +38,6 @@ Currently focusing on IAM systems, cloud infrastructure, and penetration testing
 - **Description:** A desktop application generating strong, randomized credentials with user-defined complexity rules.
 - **Key Technologies:** C#, Windows Forms
 - **My Role:** Solo developer — UI, algorithm logic, complexity enforcement
-
-#### 🕵️ Digital Forensics Simulation (2025)
-- **Repository:** [lfoliveira08/CIS-3353-LO-NS](https://github.com/lfoliveira08/CIS-3353-LO-NS)
-- **Description:** A forensic investigation simulation following legal chain-of-custody protocols to analyze volumes and identify security breaches.
-- **Key Technologies:** Digital forensics tools, technical documentation
-- **My Role:** Investigation, analysis, formal report writing
 
 ---
 

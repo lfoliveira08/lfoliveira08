@@ -21,12 +21,6 @@ Currently focusing on IAM systems, cloud infrastructure, and penetration testing
 - **Key Technologies:** Keycloak, HashiCorp Vault, Kubernetes, Terraform, Helm, cert-manager, Gitea
 - **My Role:** Security & Documentation Lead — IAM design, security configuration, SOP authoring, Wiki.js content, deployment collaboration
 
-#### 🎓 TechLearn — Online Learning Platform (2026)
-- **Repository:** [lfoliveira08/Database-Porject_Online_learning_plataform](https://github.com/lfoliveira08/Database-Porject_Online_learning_plataform) *(CIS 3310 — Database Management)*
-- **Description:** A full-stack web application for tech and programming courses. Students can enroll, complete assignments, and receive grades. Features a responsive PHP/HTML/CSS frontend connected to a MySQL relational database with 7 tables, data views, and an instructor dashboard. Containerized with Docker.
-- **Key Technologies:** PHP, MySQL, HTML, CSS, Docker, Docker Compose
-- **My Role:** Project Manager / Lead Developer — architecture, database design, frontend development, Docker setup
-
 #### 🔐 Blockchain API (2024)
 - **Repository:** `lfoliveira08/Blockchain-API`
 - **Description:** A functional Blockchain API simulating immutable ledgers with cryptographic hashing and chain validation.

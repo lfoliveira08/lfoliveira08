@@ -1,15 +1,14 @@
 # I'm Luis De Oliveira 👋
 
-I'm a student passionate about cybersecurity, cloud security,AI Engineering and Software Engineering.
-Currently focusing on IAM systems, cloud infrastructure, and penetration testing.
+I'm a student passionate about cybersecurity, Embedded Systems, AI Engineering and Software Engineering.
+Currently focusing on Software development, AI infrastructure, and penetration testing.
 
-- 🔭 I'm currently working on **UIW CloudGate** — a production-style cloud security platform (CIS 4355)
-- 🔭 I'm currently working on **UIWCyberCampus** — Smart campus security testbed that models and demonstrates how cyber-physical systems (CPS) can monitor, secure, and improve resilience in a campus environment.
-- 🌱 I'm currently learning more about **Keycloak/SSO, HashiCorp Vault, Kubernetes, and cloud security architecture, Penetration Testing**
-- 👯 I'm looking to collaborate on **cybersecurity, cloud infrastructure, and secure coding projects**
-- 💬 Ask me about **penetration testing, IAM, embedded systems security, and swimming**
+- 🔭 I'm currently working on **CyberCampus** — Smart campus security testbed that models and demonstrates how cyber-physical systems (CPS) can monitor, secure, and improve resilience in a campus environment.
+- 🌱 I'm currently learning more about **AI Engineer and Multi-Agent systems**
+- 👯 I'm looking to collaborate on **cybersecurity, AI infrastructure, and Embedded systems**
+- 💬 Ask me about **penetration testing, softwares, embedded systems security, and swimming**
 - 📫 How to reach me: [www.linkedin.com/in/luis-de-oliveira](https://www.linkedin.com/in/luis-de-oliveira/)
-- ⚡ Fact: NCAA Student-Athlete | UIW SAAC Member | Trilingual (Portuguese, English, Spanish)
+- ⚡ Fact: NCAA D1 Student-Athlete | UIW SAAC Member | Trilingual (Portuguese, English, Spanish)
 
 ---
 
@@ -38,4 +37,4 @@ Currently focusing on IAM systems, cloud infrastructure, and penetration testing
 ### 🛠️ Skills & Technologies
 - **Languages:** C#, Python, C++, JavaScript, PHP, HTML, CSS, Bash
 - **Tools & Frameworks:** Keycloak, HashiCorp Vault, Kubernetes, Terraform, Helm, Docker, Git, GitHub, MySQL, Linux, Visual Studio
-- **Areas of Interest:** Cybersecurity, Cloud Security, Software Development, Penetration Testing, Embedded Systems, Database Design
+- **Areas of Interest:** Cybersecurity, AI Engineer, Software Development, Penetration Testing, Embedded Systems, Database Design

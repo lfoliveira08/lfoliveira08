@@ -15,7 +15,7 @@ Currently focusing on Software development, AI infrastructure, and penetration t
 ### 🚀 Featured Projects
 
 #### ☁️ UIW CloudGate — Security & Documentation Lead (2025–2026)
-- **Repository:** `lfoliveira08/UIW-CloudGate` *(CIS 4355 — Cloud Computing)*
+- **Repository:***(CIS 4355 — Cloud Computing)*
 - **Description:** A team-built, production-style cloud platform spanning 7 domains and 23 services. My role covers IAM/Keycloak (SSO/OIDC) design, secrets management via HashiCorp Vault, TLS automation with cert-manager, Kubernetes RBAC, and all SOP and Wiki.js documentation.
 - **Key Technologies:** Keycloak, HashiCorp Vault, Kubernetes, Terraform, Helm, cert-manager, Gitea
 - **My Role:** Security & Documentation Lead — IAM design, security configuration, SOP authoring, Wiki.js content, deployment collaboration

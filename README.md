@@ -3,7 +3,7 @@
 I'm a student passionate about cybersecurity, Embedded Systems, AI Engineering and Software Engineering.
 Currently focusing on Software development, AI infrastructure, and penetration testing.
 
-- 🔭 I'm currently working on **CyberCampus** — Smart campus security testbed that models and demonstrates how cyber-physical systems (CPS) can monitor, secure, and improve resilience in a campus environment.
+- 🔭 I'm currently working on **CyberCampus** — Smart Building security testbed that models and demonstrates how cyber-physical systems (CPS) can monitor, secure, and improve resilience in a industry environment.
 - 🌱 I'm currently learning more about **AI Engineer and Multi-Agent systems**
 - 👯 I'm looking to collaborate on **cybersecurity, AI infrastructure, and Embedded systems**
 - 💬 Ask me about **penetration testing, softwares, embedded systems security, and swimming**
